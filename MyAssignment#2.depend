@@ -1,0 +1,207 @@
+# depslib dependency file v1.0
+1513367354 source:c:\users\lenovo\desktop\myassignment#2\customer.cpp
+	"Customer.h"
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1513367278 c:\users\lenovo\desktop\myassignment#2\customer.h
+	"MyTime.h"
+	"Person.h"
+	"Stock.h"
+	<string>
+
+1513349072 c:\users\lenovo\desktop\myassignment#2\mytime.h
+	<string>
+
+1513367364 source:c:\users\lenovo\desktop\myassignment#2\main.cpp
+	<iostream>
+	"MyTime.h"
+	"Customer.h"
+	"Item.h"
+	"Stock.h"
+
+1513351666 source:c:\users\lenovo\desktop\myassignment#2\mytime.cpp
+	"MyTime.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1513351467 c:\users\lenovo\desktop\myassignment#2\person.h
+	<string>
+
+1513351467 source:c:\users\lenovo\desktop\myassignment#2\person.cpp
+	"Person.h"
+
+1513362395 source:c:\users\lenovo\desktop\myassignment#2\item.cpp
+	"Item.h"
+	<iostream>
+
+1513351548 c:\users\lenovo\desktop\myassignment#2\item.h
+	<string>
+
+1513364148 source:c:\users\lenovo\desktop\myassignment#2\stock.cpp
+	"Stock.h"
+	<string>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1513364148 c:\users\lenovo\desktop\myassignment#2\stock.h
+	"item.h"
+	<string>
+	<fstream>
+	<iostream>
+	<cstddef>
+	<stdlib.h>
+
+1513362395 source:e:\computerscience\year 2\oop\project\myassignment#2\item.cpp
+	"Item.h"
+	<iostream>
+
+1513351548 e:\computerscience\year 2\oop\project\myassignment#2\item.h
+	<string>
+
+1513434230 source:e:\computerscience\year 2\oop\project\myassignment#2\main.cpp
+	<iostream>
+	"MyTime.h"
+	"Customer.h"
+	"Item.h"
+	"Stock.h"
+
+1513349072 e:\computerscience\year 2\oop\project\myassignment#2\mytime.h
+	<string>
+
+1513441917 e:\computerscience\year 2\oop\project\myassignment#2\customer.h
+	"MyTime.h"
+	"Person.h"
+	"Stock.h"
+	<string>
+	<fstream>
+
+1513351467 e:\computerscience\year 2\oop\project\myassignment#2\person.h
+	<string>
+
+1513442864 e:\computerscience\year 2\oop\project\myassignment#2\stock.h
+	"item.h"
+	<string>
+	<fstream>
+	<iostream>
+	<cstddef>
+	<stdlib.h>
+
+1513351666 source:e:\computerscience\year 2\oop\project\myassignment#2\mytime.cpp
+	"MyTime.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1513351467 source:e:\computerscience\year 2\oop\project\myassignment#2\person.cpp
+	"Person.h"
+
+1513441668 source:e:\computerscience\year 2\oop\project\myassignment#2\administrator.cpp
+	"Administrator.h"
+
+1513434848 e:\computerscience\year 2\oop\project\myassignment#2\administrator.h
+	<iostream>
+	"Stock.h"
+	<fstream>
+	"Customer.h"
+	<stdlib.h>
+	<string>
+
+1513432587 source:e:\computerscience\year 2\oop\project\myassignment#2\stock.cpp
+	"Stock.h"
+	<string>
+	<fstream>
+	<iostream>
+	<iomanip>
+
+1513441917 source:e:\computerscience\year 2\oop\project\myassignment#2\customer.cpp
+	"Customer.h"
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1514060171 source:c:\users\lenovo\downloads\myassignment#2\administrator.cpp
+	"Administrator.h"
+	<algorithm>
+	<iostream>
+	<iomanip>
+	"rlutil.h"
+	"graphics.h"
+
+1514059629 c:\users\lenovo\downloads\myassignment#2\administrator.h
+	<iostream>
+	"Stock.h"
+	<fstream>
+	"Customer.h"
+	"Person.h"
+	<stdlib.h>
+	<string>
+
+1513967536 c:\users\lenovo\downloads\myassignment#2\stock.h
+	"Item.h"
+	<string>
+	<fstream>
+	<iostream>
+	<cstddef>
+	<stdlib.h>
+
+1513967615 c:\users\lenovo\downloads\myassignment#2\item.h
+	<string>
+
+1513955769 c:\users\lenovo\downloads\myassignment#2\customer.h
+	"MyTime.h"
+	"Person.h"
+	"Stock.h"
+	<string>
+	<fstream>
+
+1514057315 c:\users\lenovo\downloads\myassignment#2\mytime.h
+	<string>
+
+1513351467 c:\users\lenovo\downloads\myassignment#2\person.h
+	<string>
+
+1513967615 source:c:\users\lenovo\downloads\myassignment#2\customer.cpp
+	"Customer.h"
+	"Administrator.h"
+	<string>
+	<stdlib.h>
+	<sstream>
+	<iostream>
+	<ctime>
+	<iomanip>
+
+1513967615 source:c:\users\lenovo\downloads\myassignment#2\item.cpp
+	"Item.h"
+	<iostream>
+
+1514060338 source:c:\users\lenovo\downloads\myassignment#2\main.cpp
+	<iostream>
+	<ctime>
+	"Administrator.h"
+
+1514058104 source:c:\users\lenovo\downloads\myassignment#2\mytime.cpp
+	"MyTime.h"
+	<iostream>
+	<string>
+	<stdlib.h>
+
+1513351467 source:c:\users\lenovo\downloads\myassignment#2\person.cpp
+	"Person.h"
+
+1513956178 source:c:\users\lenovo\downloads\myassignment#2\stock.cpp
+	"Stock.h"
+	<string>
+	<fstream>
+	<iostream>
+	<iomanip>
+

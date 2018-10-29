@@ -1,0 +1,7 @@
+milk,        drinks, 25, 9
+choco,        food, 12, 25
+rice,        food, 4, 5
+pepsi,        drinks, 10, 6
+arial,        washing, 5, 10
+soap,        washing, 8, 3
+water,        drinks, 30, 2
